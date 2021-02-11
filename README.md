@@ -1,4 +1,4 @@
-# Project1_Wikipedia Data Analysis 
+# Wikipedia Data Analysis 
 
 ## Project Description
 
@@ -18,7 +18,8 @@ This project focused on using big data tools in order to answer given questions 
 * Hive 
 * Git + Github
 ## Features
-* 
+* Hql that creates tables and loads data from an external.
+* Queries that take the data and run specific analyses. 
 ## Getting Started
    
 > Must have Yarn and HDFS daemons in order to run commands. 
