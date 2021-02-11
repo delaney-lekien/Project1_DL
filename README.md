@@ -22,15 +22,15 @@ This project focused on using big data tools in order to answer given questions 
 ## Getting Started
    
 > Must have Yarn and HDFS daemons in order to run commands. 
-> This project uses Linux and HDFS in order to store and communicate with the DBeaver Database. 
+> This project uses Linux and HDFS in order to store and communicate with the DBeaver Database to run queries. 
 
 ## Usage
 > In order to run this program you will need to download Wikimedia analytics and place them inside of the respective folders to be read into the database. 
 
 ## Links for data used
-> - [Pageviews Filtered to Human Traffic](https://dumps.wikimedia.org/other/pageviews/readme.html)
-  - https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
-  - [Page Revision and User History](https://dumps.wikimedia.org/other/mediawiki_history/readme.html)
-  - https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation
-  - [Monthly Clickstream](https://dumps.wikimedia.org/other/clickstream/readme.html)
-  - https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
+- [Pageviews Filtered to Human Traffic](https://dumps.wikimedia.org/other/pageviews/readme.html)
+- https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
+- [Page Revision and User History](https://dumps.wikimedia.org/other/mediawiki_history/readme.html)
+- https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation
+- [Monthly Clickstream](https://dumps.wikimedia.org/other/clickstream/readme.html)
+- https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
